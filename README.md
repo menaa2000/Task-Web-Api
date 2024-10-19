@@ -8,6 +8,7 @@ Validates the response status code and body content.
 Outputs the response for debugging purposes.
 
 ..........................................................................................................................................................................................................
+
 NopeCommerce Automation
 Overview:
 This Java application utilizes Selenium WebDriver to automate the process of reading shipping information from a CSV file and placing orders on a practice e-commerce website (nopCommerce).
